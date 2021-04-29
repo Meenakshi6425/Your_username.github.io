@@ -1,0 +1,23 @@
+* {
+  box-sizing: border-box;
+}
+
+.container{
+  display: flex;
+}
+
+.heading {
+  background-color: pink;
+  color: purple;
+  text-transform: uppercase;
+  font-family: Arial, Helvetica, sans-serif;
+  height: 2em;
+  padding-top: 20px;
+  padding-left: 15px;
+}
+
+p {
+  margin-left: 30px;
+  margin-top: 0px;
+  margin-bottom: 20px;
+}
